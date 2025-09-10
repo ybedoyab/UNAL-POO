@@ -1,0 +1,28 @@
+# === Java / Maven ===
+target/
+dist/
+build/
+out/
+*.class
+*.log
+hs_err_pid*
+
+# === NetBeans (Ant/Maven) ===
+nbproject/private/
+nbbuild/
+nbdist/
+.netbeans/
+
+# === IDEs / SO ===
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+.DS_Store
+Thumbs.db
+
+# === Otros artefactos temporales ===
+*.tmp
+*.swp
