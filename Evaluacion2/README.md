@@ -11,17 +11,17 @@ Esta carpeta contiene los ejercicios de la evaluación 2, cada uno como **proyec
 
 ## Cómo abrir y ejecutar (NetBeans)
 1. `File → Open Project…`
-2. Abre la carpeta del ejercicio (`Ejercicio2.1`, `Ejercicio2.2`, …).
+2. Abre la carpeta del ejercicio (`Ejercicio2_1`, `Ejercicio2_2`, …).
 3. Ejecuta con **Run Project**.
 
 ---
 
 ## Ejercicios
 
-- **[Ejercicio 2.1](https://github.com/ybedoyab/UNAL-POO/blob/main/Evaluacion1/Ejercicio04/src/main/java/unal/ejercicio04/Ejercicio04.java)**  
-- **[Ejercicio 2.2](https://github.com/ybedoyab/UNAL-POO/blob/main/Evaluacion1/Ejercicio05/src/main/java/unal/ejercicio05/Ejercicio05.java)**  
-- **[Ejercicio 2.3](https://github.com/ybedoyab/UNAL-POO/blob/main/Evaluacion1/Ejercicio12/src/main/java/unal/ejercicio12/Ejercicio12.java)**  
-- **[Ejercicio 2.4](https://github.com/ybedoyab/UNAL-POO/blob/main/Evaluacion1/Ejercicio14/src/main/java/unal/ejercicio14/Ejercicio14.java)**  
-- **[Ejercicio 2.5](https://github.com/ybedoyab/UNAL-POO/blob/main/Evaluacion1/main/Ejercicio17/src/main/java/unal/ejercicio17/Ejercicio17.java)**  
+_ **[Ejercicio 2_1 Definición de clases](https://github.com/ybedoyab/UNAL_POO/blob/main/Evaluacion2/Ejercicio2_1/src/main/java/unal/ejercicio2_1/Ejercicio2_1.java)**  
+_ **[Ejercicio 2_2 Definición de atributos de una clase con tipos primitivos de datos](https://github.com/ybedoyab/UNAL_POO/blob/main/Evaluacion2/Ejercicio2_2/src/main/java/unal/ejercicio2_2/Ejercicio2_2.java)**  
+_ **[Ejercicio 2_3 Estado de un objeto](https://github.com/ybedoyab/UNAL_POO/blob/main/Evaluacion2/Ejercicio2_3/src/main/java/unal/ejercicio2_3/Ejercicio2_3.java)**  
+_ **[Ejercicio 2_4 Definición de métodos con y sin valores de retorno](https://github.com/ybedoyab/UNAL_POO/blob/main/Evaluacion2/Ejercicio2_4/src/main/java/unal/ejercicio2_4/Ejercicio2_4.java)**  
+_ **[Ejercicio 2_5 Definición de métodos con parámetros](https://github.com/ybedoyab/UNAL_POO/blob/main/Evaluacion2/main/Ejercicio2_5/src/main/java/unal/ejercicio2_5/Ejercicio2_5.java)**  
 
 
